@@ -1,0 +1,183 @@
+---
+title: "La Longevidad: Más Allá de la Biología"
+subtitle: "Aspectos Socioculturales del Envejecimiento (Paulina Osorio Parraguez, 2006)"
+format:
+  revealjs:
+    theme: moon
+    slide-number: true
+    transition: fade
+    controls: true
+    progress: true
+    footer: "Antropología de la Salud | Paulina Osorio (2006)"
+---
+
+<style>
+.card-box {
+  background: rgba(255, 255, 255, 0.08);
+  border-left: 5px solid #38bdf8;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+.card-highlight {
+  background: rgba(245, 158, 11, 0.15);
+  border-left: 5px solid #f59e0b;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+.card-purple {
+  background: rgba(168, 85, 247, 0.15);
+  border-left: 5px solid #a855f7;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+</style>
+
+## 1. Introducción y Contexto
+
+::: {.card-box}
+### 📈 Fenómeno Sociodemográfico Inédito
+Aumento sostenido y acelerado de la esperanza de vida a nivel global y regional.
+:::
+
+::: {.card-highlight}
+### 🔄 Revolución Sociocultural
+La longevidad obliga a la antropología y sociología a **repensar el ciclo vital en su conjunto** y no solo la vejez como una etapa aislada.
+:::
+
+::: {.card-purple}
+### 🧠 Desafío Epistémico
+Desmitificar el paradigma puramente biológico que reduce el envejecer al deterioro físico o cronológico.
+:::
+
+---
+
+## 2. Crítica al Paradigma Asistencialista
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-warning title="Gerontología Tradicional"}
+- **Visión decremental**: Enfocada en pérdidas, inactividad y enfermedad.
+- **Tratamiento**: Concibe la vejez como "problema de salud pública" o carga asistencial.
+:::
+:::
+
+::: {.column width="50%"}
+::: {.callout-tip title="Gerontología Crítica (Osorio)"}
+- **Sujetos de derecho**: Reconocimiento de las personas mayores como agentes activos.
+- **Transformación**: Paso del paternalismo a la participación política y social.
+:::
+:::
+
+:::
+
+---
+
+## 3. Perspectiva Biográfica y Antropológica
+
+::: {.card-highlight}
+El envejecer no es un estado estático, sino un **proceso dinámico de construcción biográfica**.
+:::
+
+### Intersección de Tres Temporalidades:
+
+::: {.card-box}
+1. **Tiempo Individual / Corporal**: Cambios biológicos y vivencias subjetivas del cuerpo.
+2. **Tiempo Familiar**: Ciclos de crianza, nido vacío, rol de abuelos/as e interdependencia.
+3. **Tiempo Social / Histórico**: Transformaciones económicas, políticas y culturales de la época.
+:::
+
+---
+
+## 4. Mirada Transcultural del Envejecimiento
+
+::: {.callout-note title="Premisa Antropológica"}
+*"El sentido de la vejez refleja los valores fundamentales de la sociedad en que ocurre."*
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.card-box}
+### Sociedades Tradicionales / Indígenas
+- Autoridad moral y prestigio.
+- Transmisión oral del conocimiento.
+- Liderazgo espiritual comunitario.
+:::
+:::
+
+::: {.column width="50%"}
+::: {.card-purple}
+### Sociedades de Mercado
+- Marginación e invisibilización.
+- Devaluación por falta de productividad.
+- Segregación institucional.
+:::
+:::
+
+:::
+
+---
+
+## 5. Edad Cronológica vs. Edad Sentida
+
+::: {.card-box}
+### ⏱️ Límites de la Edad Jurídica (60-65 años)
+La cifra cronológica pierde capacidad predictiva sobre la funcionalidad, vitalidad y deseos del sujeto.
+:::
+
+::: {.card-highlight}
+### 💡 Edad Sentida (Autopercepción)
+Dimensión subjetiva sobre cómo el individuo experimenta y evalúa su propio momento vital.
+:::
+
+### Subcategorizaciones de la Vejez:
+* **Tercera Edad / Viejos-Jóvenes**: Autovalentes, activos, con proyectos personales.
+* **Cuarta Edad / Ancianidad Avanzada**: Presencia de dependencia, fragilidad y necesidad de cuidados.
+
+---
+
+## 6. Género y Feminización de la Vejez
+
+::: {.card-purple}
+### 👩 Mayor Longevidad Femenina
+La vejez avanzada es un fenómeno predominantemente de mujeres.
+:::
+
+::: {.columns}
+
+::: {.column width="50%"}
+::: {.callout-important title="Hombres"}
+- Entrada a la vejez marcada por un hito institucional y económico: **la jubilación laboral**.
+:::
+:::
+
+::: {.column width="50%"}
+::: {.callout-important title="Mujeres"}
+- Marcadas por eventos biosociales (**menopausia**) e invisibilización del trabajo doméstico y de cuidados no remunerado.
+:::
+:::
+
+:::
+
+---
+
+## 7. Conclusiones e Implicaciones
+
+::: {.card-box}
+### 1. Descentrar la Biomedicina
+El envejecimiento requiere un abordaje transdisciplinar donde lo social y lo cultural sean constitutivos.
+:::
+
+::: {.card-highlight}
+### 2. Derechos y Ciudadanía
+Garantizar la autonomía, la voz y la toma de decisiones de las personas mayores.
+:::
+
+::: {.card-purple}
+### 3. Desafío para las Políticas Públicas
+Diseñar entornos e instituciones que promuevan la inclusión intergeneracional y el cuidado recíproco.
+:::
