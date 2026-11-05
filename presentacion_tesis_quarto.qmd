@@ -1,0 +1,176 @@
+---
+title: "Tanatosemiología Crítica del Suicidio en Espacios Públicos"
+subtitle: "Antecedentes, Objetivos Actualizados (2000–2025) y Diseño Metodológico"
+author: "Proyecto de Tesis Doctoral"
+date: "2026-10-30"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    controls: true
+    progress: true
+    history: true
+    center: false
+    transition: slide
+    margin: 0.08
+    logo: ""
+    footer: "Tanatosemiología Crítica del Suicidio | RM 2000–2025"
+  beamer:
+    aspectratio: 169
+    theme: Madrid
+    colortheme: default
+lang: es
+---
+
+## 01. Estructura de la Presentación
+
+1. **Marco de Antecedentes y Estado del Arte**
+   - Genealogía, secularización y secuestro médico
+   - Sociología de la cuantificación y crítica antropológica
+   - Campos estéticos y cartografía del *homo dolens*
+   - Realidad epidemiológica y socioeconómica en Chile
+2. **Problematización del Espacio Público y la Prensa**
+   - El espacio público saturado (Metro de Santiago, malls/Costanera Center)
+   - La prensa escrita y digital como agente enunciador
+3. **Pregunta y Objetivos de Investigación (2000–2025)**
+   - Pregunta central y Objetivo General
+   - Objetivos Específicos (Descriptivo, Analítico, Diacrónico)
+4. **Diseño Metodológico Integrado**
+   - Fundamentación epistemológica y ética (No contacto presencial / Open Access)
+   - Marco teórico-analítico (Van Dijk, Peirce, Mendizábal, García Fernández)
+   - Matriz de Operacionalización del Discurso Noticioso (3 Módulos)
+
+---
+
+## 02. Antecedentes I: Genealogía y Secuestro Médico
+
+### De la Condena Medieval a la Patologización Ilustrada
+* **Periodo Medieval:** El deceso voluntario codificado como *pecado nefando* y crimen contra Dios y la corona. Sanciones punitivas: denegación de sepultura sagrada, profanación del cadáver y confiscación de bienes familiares.
+* **Secularización e Ilustración (S. XVII–XVIII):** Emergencia de la categoría *non compos mentis* (locura) para evitar confiscaciones. Cheyne (1733) acuña la *"enfermedad inglesa"* (vapores corporales y clima).
+* **Policía Médica (S. XVIII–XIX):** Hußty (1786) y Osiander (1813) redefinen el suicidio como afrenta a la demografía y productividad del Estado.
+* **El Nacimiento del Alienismo:** Pinel (1794) y Esquirol (1838) imponen el monopolio psiquiátrico (*lipemanía*, *monomanía*), reduciendo el dolor a síntoma neurovegetativo individual.
+
+---
+
+## 03. Antecedentes II: Sociología y Crítica Antropológica
+
+### De la Captura Estadística a la Suicidología Cultural
+* **Estadística Moral y Sociología Clásica:** Morselli (1881), Halbwachs (1930) y Émile Durkheim (*Le Suicide*, 1897). El suicidio como *hecho social* objetivo regulado por corrientes de integración y regulación (egoísta, altruista, anómico).
+* **Crítica Antropológica del Tiempo (Carbonell, 2005):** Fluctuaciones estacionales (incremento estival) y deconstrucción de la suicidología psiquiátrica (*psychache* de Shneidman) por confundir prevención con control poblacional.
+* **El Giro Cultural (*Cultural Turn*):** Lester (2014) y Macho (2020) rescatan las cartas, diarios, poemas y obras estéticas como documentos de vida y muerte que develan elaboradas estructuras de sentido.
+
+---
+
+## 04. Antecedentes III: Campos Estéticos y el *Homo Dolens*
+
+### La Representación del Dolor y la Escisión del Yo
+* **Literatura y "El Oficio de Vivir":** Al Álvarez (1977) y Daniel Stern: la creación literaria como contra-autopsia psicológica y crítica existencial soberana.
+* **Estética de la Consumación:** Patricia de Martelaere y Thomas Macho (2020): el *suicidio estético* como anhelo de completitud y perfeccionamiento biográfico.
+* **La Escisión del Yo:** Théodore Jouffroy: *“‘Suicidio’ es una palabra mal escogida: quien mata nunca es idéntico a quien es matado”*. Performatividad en arte y videoarte (Semper, Ter Heijne).
+* **Cartografía del *Homo Dolens*:** Gaune & Rolle (2018) y Le Breton (2004): el dolor corporal como hecho de cultura y disolución de la mismidad en geografías terminales.
+
+---
+
+## 05. Antecedentes IV: El Suicidio en Chile
+
+### Cifras Nacionales, Subnotificación y Exclusión
+* **Tendencias Macrohistóricas 1921–2020 (Llorca-Jaña et al., 2024):** Aumento de la tasa de suicidios de 0,2% a 2% de las defunciones totales. Brecha de género 5:1 (hombres 18/100k vs. mujeres 3,6/100k). Concentración en varones mayores de 50 años (29%).
+* **Subnotificación e Infrarregistro (Duarte Quapper, 2007):** Cifra oscura de 51% a 70% en el INE frente a autopsias del SML (1997–1999) por fallas administrativas de codificación.
+* **El Suicidio como "Signo de Exclusión":** Duarte Quapper demuestra altísima correlación comunal entre suicidios y pobreza multidimensional ($r=0,967$), ruralidad ($r=0,988$) y desamparo.
+* **Violencia y Género en APS:** Lobos Mosqueira (2016): 90,7% de métodos violentos (ahorcamiento). Moller Puga (2021) en CESFAM Lo Valledor Norte: la ideación femenina como desbordamiento ante la violencia intrafamiliar y la sobrecarga de cuidados.
+
+---
+
+## 06. Problematización: Espacio Público y Prensa en la RM
+
+### La Disputa Simbólica sobre la Muerte Voluntaria
+* **El Espacio Público Urbano:** El Metro de Santiago y los no-lugares de consumo (Mall Costanera Center) se convierten en escenarios de irrupción física del dolor social e interrupción de la red urbana.
+* **La Prensa Mediática como Agente Enunciador:** Tensión constante entre:
+  1. La *ley del silencio* y contención técnica (evitar efecto contagio / Werther).
+  2. El sensacionalismo mercantil o la reducción al "corte de servicio".
+  3. La demanda de salud mental pública post-pandemia (efecto Papageno).
+* **Necesidad de un Análisis Diacrónico (2000–2025):** Deconstruir la evolución de las representaciones discursivas en 25 años de prensa escrita y digital en Chile.
+
+---
+
+## 07. Pregunta de Investigación y Objetivo General
+
+::: {.callout-note icon=false}
+### Pregunta de Investigación Principal
+¿De qué manera se han construido los discursos sobre el suicidio en espacios públicos de la RM en los medios de prensa entre los años 2000-2025?
+:::
+
+::: {.callout-tip icon=false}
+### Objetivo General
+Comprender de qué manera se han construido los discursos sobre el suicidio en espacios públicos de la RM en los medios de prensa entre los años 2000-2025.
+:::
+
+---
+
+## 08. Objetivos Específicos Actualizados (2000–2025)
+
+1. **Objetivo Específico 1 (Dimensión Descriptivo-Temática):**
+   > *Describir discursos del suicidio en lugares públicos en medios de prensa entre los años 2000 – 2025.*
+
+2. **Objetivo Específico 2 (Dimensión Analítico-Discursiva):**
+   > *Identificar estrategias discursivas que utiliza la prensa al informar los decesos.*
+
+3. **Objetivo Específico 3 (Dimensión Diacrónica / Transformación Temporal):**
+   > *Analizar las continuidades y transformaciones de los discursos en el período señalado.*
+
+---
+
+## 09. Fundamentación Epistemológica y Ética del Diseño
+
+### La Renuncia al Contacto Presencial y el Uso de Muestra Pública
+* **Justificación Epistemológica (Giro Lingüístico):**
+  - Íñiguez (2006) y Taylor (2012): El discurso es una práctica social externa visible; se rechaza la "ilusión mentalista" de buscar estados internos mediante entrevistas provocadas.
+  - Foucault (*La arqueología del saber*): Análisis centrado en el plano del *"se dice"*, en la exterioridad de los enunciados públicos.
+* **Justificación Ética (No Revictimización):**
+  - Evitar el riesgo inminente de daño emocional o invasión a la privacidad de personas en duelo o sobrevivientes.
+* **Enfoque del ACD (Teun van Dijk):**
+  - *"Investigar hacia arriba"*: Escrutinio crítico sobre el discurso oficial de las élites simbólicas (médicos, legisladores, editores de prensa).
+* **Muestra Documental Abierta (Open Access):** Noticias, crónicas y reportajes de libre acceso en prensa nacional y digital en Chile (2000–2025).
+
+---
+
+## 10. Marco Teórico-Metodológico Integrado
+
+| Autor / Enfoque | Conceptos Clave | Operacionalización en la Investigación |
+| :--- | :--- | :--- |
+| **Teun A. van Dijk** *(ACD)* | Superestructura noticiosa, macroestructuras semánticas, microestructuras (léxico/pasivización), cuadrado ideológico. | Análisis de titulares, agenciamiento sintáctico, eufemismos y acceso a fuentes de élite. |
+| **Iván Rodrigo Mendizábal** | Modelo de 3 Niveles: Relato, Contexto (*Frame*), e Ideología. | Desagregación proposicional, inferencia de temas centrales y marcos periodísticos. |
+| **Charles S. Peirce** *(Tanatosemiología)* | Triada peirceana: Primeridad (sentimiento), Secundidad (hecho), Terceridad (norma/ley). | Articulación entre el dolor somático (*homo dolens*), el acto en espacio público y la norma biomédica/mediática. |
+| **Diego García Fernández** | Periodismo responsable, tensión entre sensacionalismo y contención, Efectos Werther/Papageno. | Evaluación de recomendaciones éticas, mención de líneas de ayuda y prevención. |
+
+---
+
+## 11. Matriz de Operacionalización Discursiva
+
+### Estructura de 3 Módulos Analíticos
+* **Módulo 1 (Objetivo Específico 1 - Descriptivo):**
+  - *Visibilidad Noticiosa:* Sección, extensión, soporte gráfico.
+  - *Espacio Urbano:* Metro de Santiago, Costanera Center, vía pública.
+  - *Atributos de la Víctima:* Datos sociodemográficos, anonimato vs. individualización.
+* **Módulo 2 (Objetivo Específico 2 - Analítico):**
+  - *Superestructura:* Sumario, antecedentes, reacciones verbales.
+  - *Microestructura:* Selección léxica, eufemismos (*"procedimiento de emergencia"*), agenciamiento.
+  - *Encuadres (Frames):* Tránsito/operativo, Policial, Salud Pública, Sensacionalista.
+* **Módulo 3 (Objetivo Específico 3 - Diacrónico 2000–2025):**
+  - *2000–2008:* Silencio estratégico / breves policiales / eufemización del corte de servicio.
+  - *2009–2017:* Irrupción en no-lugares emblemáticos (malls) y debate sobre barreras físicas.
+  - *2018–2025:* Periodismo responsable post-pandemia, salud mental colectiva e inclusión de líneas de ayuda (*4141).
+
+---
+
+## 12. Conclusiones del Diseño y Proyección
+
+### Aportes Esperados de la Investigación
+* **Rigor Metodológico y Transparencia:** Muestra 100% pública, replicable y éticamente inexpugnable.
+* **Desconstrucción de la Enunciación Mediática:** Evidenciar cómo la prensa chilena ha transitado desde la estigmatización y la anécdota policial hacia la responsabilidad social o el encubrimiento de las causas estructurales del dolor.
+* **Contribución a la Tanatosemiología Crítica:** Aportar una mirada humanística y crítica que rescate el sentido del espacio público y la dignidad de la vida en el Chile contemporáneo.
+
+::: {.callout-note icon=false}
+### Gracias por su atención
+*Proyecto de Tesis Doctoral | 2000–2025*
+:::
